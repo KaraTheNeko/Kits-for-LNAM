@@ -1,5 +1,4 @@
 # Royal Guard kit
-clear @s
 tellraw @s "You have been given the Royal Guard kit!"
 ##kitcallout royalguard ## ONLY FOR CARPET WITH THE SCARPET KITCALLOUT.SC SCRIPT
 # armor

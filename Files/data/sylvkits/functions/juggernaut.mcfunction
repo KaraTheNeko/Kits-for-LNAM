@@ -10,3 +10,4 @@ replaceitem entity @s armor.feet iron_boots{Unbreakable:1b,Enchantments:[{id:"mc
 # Weapons
 replaceitem entity @s weapon.mainhand iron_sword{Unbreakable:1b,Enchantments:[{id:"mcdw:stunning",lvl:3s},{id:"mcdw:committed",lvl:3s},{id:"minecraft:binding_curse",lvl:1s}]} 1
 replaceitem entity @s weapon.offhand splash_potion{Potion:"minecraft:harming"} 1
+effect give @s minecraft:slowness 1000000 3 true

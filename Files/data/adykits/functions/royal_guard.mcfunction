@@ -1,6 +1,6 @@
 # Royal Guard kit
 tellraw @s "You have been given the Royal Guard kit!"
-##kitcallout royalguard
+##kitcallout royalguard ## ONLY FOR CARPET WITH THE SCARPET KITCALLOUT.SC SCRIPT
 # armor
 replaceitem entity @s armor.head mcda:royal_guard_armor_helmet{Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
 replaceitem entity @s armor.chest mcda:royal_guard_armor_chestplate{Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
